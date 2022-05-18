@@ -16,6 +16,6 @@ Principais barreiras
 
 * Implementar a função que checa o vencedor
 
-Você pode acessar a página [Clicando aqui]()
+Você pode acessar a página [Clicando aqui](https://dev-celo.github.io/jogo_da_velha/)
 
 ### Olá me chamo Marcelo, fique à vontade para opinar :)
